@@ -74,5 +74,4 @@
 ## 📫 Contact Me
 📍 Cairo, Egypt  
 📧 [saeedelfikybusiness@gmail.com](mailto:saeedelfikybusiness@gmail.com)  
-📞 +20 102 305 2488  
 💼 [LinkedIn](https://www.linkedin.com/in/saeed-elfiky-61188b24b)  
