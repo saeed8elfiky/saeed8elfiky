@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saeed Ashruf Elfiky
+# Hwllo World! I'm Saeed Ashruf Elfiky
 
 🎯 **Cybersecurity Enthusiast & Communications Engineering Student**  
 📡 Electronics and Communications Engineer in the making, blending **cybersecurity**, **networking**, and **cloud computing** skills to solve real-world challenges.  
@@ -65,4 +65,4 @@
 📍 Cairo, Egypt  
 📧 [saeedelfikybusiness@gmail.com](mailto:saeedelfikybusiness@gmail.com)  
 📞 +20 102 305 2488  
-💼 [LinkedIn](https://www.linkedin.com/in/saeedelfiky)  
+💼 [LinkedIn](https://www.linkedin.com/in/saeed-elfiky-61188b24b)  
