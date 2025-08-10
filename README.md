@@ -61,6 +61,16 @@
 
 ---
 
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saeed8elfiky&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeed8elfiky&layout=compact&theme=tokyonight)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=saeed8elfiky)
+![Followers](https://img.shields.io/github/followers/saeed8elfiky?label=Followers&style=social)
+
+---
 ## 📫 Contact Me
 📍 Cairo, Egypt  
 📧 [saeedelfikybusiness@gmail.com](mailto:saeedelfikybusiness@gmail.com)  
