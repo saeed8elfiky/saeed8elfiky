@@ -1,16 +1,14 @@
 # Hello World! I'm Saeed Ashruf Elfiky
 
-🎯 **Cybersecurity Enthusiast & Communications Engineering Student**  
-📡 Electronics and Communications Engineer in the making, blending **cybersecurity**, **networking**, and **cloud computing** skills to solve real-world challenges.  
-💡 Passionate about ethical hacking, AWS cloud operations, and enterprise network design.  
-🚀 Dreaming big: from securing networks on Earth to communicating with the **International Space Station**.
+# 💫 About Me:
+🎯 Cybersecurity Enthusiast & Communications Engineering Student<br>📡 Electronics and Communications Engineer in the making, blending cybersecurity, networking, and cloud computing skills to solve real-world challenges.<br>💡 Passionate about ethical hacking, AWS cloud operations, and enterprise network design.<br>🚀 Dreaming big: from securing networks on Earth to communicating with the International Space Station.
 
----
 
-## 🛠 Skills
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saeed-elfiky-61188b24b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saeedelfikybusiness@gmail.com) 
 
-### ☁ Cloud & Platforms
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white)
 
 ### 🔐 Cybersecurity
 ![Metasploit](https://img.shields.io/badge/Metasploit-2E86C1?style=for-the-badge&logo=metasploit&logoColor=white)
@@ -25,53 +23,17 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 🖥 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saeed8elfiky&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=saeed8elfiky&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saeed8elfiky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saeed8elfiky&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 📂 Featured Projects
-
-- [**RootUrself**](https://github.com/saeedelfiky/rooturself)  
-  Cybersecurity educational platform providing tutorials, CTF solutions, interview guides, and awareness resources.
-
-- [**Enterprise Network Configuration**](https://github.com/saeedelfiky/enterprise-network)  
-  Configured enterprise-like networks with Windows Server roles (AD, DNS, DHCP) and Cisco Packet Tracer simulations.
-
-- [**Cybersecurity Lab Simulations**](https://github.com/saeedelfiky/cyber-lab)  
-  Penetration tests using Metasploitable 2, Metasploit, and Nmap in a VirtualBox lab.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saeed8elfiky&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 🎓 Certifications & Training
-- AWS Cloud Services Management & Operations – Creativa (NTI)  
-- Cisco Ethical Hacker Certification – July 2025  
-- HCIA-5G – Electronics Research Institute  
-- Red Hat System Administrator 1 – ITI  
-- Cisco CCNA – SWISS  
-- CompTIA Network+ (Self-study)  
-- MCSA (Microsoft Certified Solutions Associate) (Self-study)  
-
----
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=saeed8elfiky&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saeed8elfiky&layout=compact&theme=tokyonight)
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=saeed8elfiky)
-![Followers](https://img.shields.io/github/followers/saeed8elfiky?label=Followers&style=social)
-
----
-## 📫 Contact Me
-📍 Cairo, Egypt  
-📧 [saeedelfikybusiness@gmail.com](mailto:saeedelfikybusiness@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/saeed-elfiky-61188b24b)  
+[![](https://visitcount.itsvg.in/api?id=saeed8elfiky&icon=0&color=0)](https://visitcount.itsvg.in)
