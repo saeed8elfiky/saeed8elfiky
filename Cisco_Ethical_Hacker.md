@@ -9,7 +9,7 @@ The training was delivered under the **Cisco Networking Academy** initiative and
 - **Duration:** 70 Hours  
 - **Level:** Intermediate  
 - **Provider:** Cisco Networking Academy  
-
+- **Certification:** [Cisco Ethical Hacker](https://www.credly.com/badges/68eb0929-56bc-4a2c-a36c-775c637105d4)
 ---
 
 ## 🔐 Training Content
