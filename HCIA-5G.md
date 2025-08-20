@@ -7,7 +7,8 @@ The program had a total duration of **40 hours** and focused on the fundamentals
 ---
 
 ## 📌 Program Overview
-- **Duration:** 40 Hours  
+- **Duration:** 40 Hours
+- **Duration:** Jul 2025 for 2 weeks
 - **Level:** Associate (Entry-level in 5G Technologies)  
 - **Organizers:** Huawei & Electronics Research Institute (ERI)  
 
