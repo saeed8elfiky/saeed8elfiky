@@ -7,7 +7,8 @@ The program focused on introducing the fundamentals of cybersecurity, networking
 ---
 
 ## 📌 Program Overview
-- **Duration:** 35 Hours  
+- **Duration:** 35 Hours
+- **Date:** 2 weeks  
 - **Level:** Beginner  
 - **Provider:** Information Technology Institute (ITI)
 - **Certification:** [Cybersecurity for Beginners Path](https://maharatech.gov.eg/badges/badge.php?hash=ae90a60043508700837e1b2cb0201490e4eda3f2)  
