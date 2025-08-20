@@ -6,6 +6,7 @@ The program combined **Technical Training in Cloud Computing (AWS)** and **Profe
 
 ## 📌 Program Overview
 - **Total Hours:** 120 Hours
+- **Duration:** June 2025 - Aug 2025
 - **Technical Part (AWS Academy):** 90 Hours
 - **Soft Skills Program:** 30 Hours
 
