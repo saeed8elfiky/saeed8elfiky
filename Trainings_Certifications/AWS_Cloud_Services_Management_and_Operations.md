@@ -15,13 +15,13 @@ The program combined **Technical Training in Cloud Computing (AWS)** and **Profe
 ## ☁️ Technical Part: AWS Cloud Services Management & Operation (90 Hours)
 
 ### Topics Covered:
-- **AWS Cloud Foundations**
+- **AWS Cloud Foundations** [Certification](https://www.credly.com/badges/ca7f5c26-1828-42e6-9957-e96662a8bc2e/public_url)
   - Cloud Concepts  
   - AWS Core Services (EC2, S3, RDS, VPC, IAM)  
   - AWS Security Best Practices  
   - AWS Cloud Economics (Cost Optimization)  
 
-- **AWS Solutions Architect – Associate**
+- **AWS Solutions Architect – Associate** [Certification](https://www.credly.com/badges/1a7577a0-19ee-4c2a-b18c-b6b2f515e612/public_url)
   - Designing highly available, fault-tolerant, and scalable systems  
   - AWS Academy Cloud Architecting modules:  
     - Adding Storage, Compute, and Database layers  
@@ -56,3 +56,4 @@ The program combined **Technical Training in Cloud Computing (AWS)** and **Profe
 - Cloud Architect  
 
 ---
+
