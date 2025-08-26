@@ -10,6 +10,7 @@ The program had a total duration of **120 hours** and focused on building strong
 - **Duration:** 120 Hours  
 - **Level:** Intermediate to Advanced  
 - **Providers:** NTI & ITIDA  
+- **Week 1:** SEC701 – *Network Security*  
 
 ---
 
@@ -64,5 +65,3 @@ The program had a total duration of **120 hours** and focused on building strong
 - Security Engineer  
 - IT Security Support  
 - SOC Engineer  
-
----
