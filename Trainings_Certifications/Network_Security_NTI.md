@@ -10,7 +10,8 @@ The program had a total duration of **120 hours** and focused on building strong
 - **Duration:** 120 Hours  
 - **Level:** Intermediate to Advanced  
 - **Providers:** NTI & ITIDA  
-- **Week 1:** SEC701 – *Network Security*  
+- **Week 1 - 2:** SEC701
+- **Week 3 - 4:** Network Security
 
 ---
 
@@ -51,7 +52,24 @@ The program had a total duration of **120 hours** and focused on building strong
 - Risk management process.  
 - Third-party risk assessment and management.  
 - Compliance frameworks and security audits.  
-- Security awareness practices.  
+- Security awareness practices.
+
+### 6. Cryptography
+- Explain the principles of symmetric and asymmetric encryption.  
+- Understand hashing algorithms and their use cases (integrity verification, password storage).  
+- Explain digital signatures and certificates.  
+- Key management concepts (generation, distribution, rotation, and revocation).  
+- Use of Public Key Infrastructure (PKI) in enterprise environments.  
+- Cryptographic attacks and mitigation strategies.  
+
+### 7. Practical Network Security
+- Configure and secure network devices (routers, switches, firewalls).  
+- Implement VLANs and access control lists (ACLs).  
+- Set up and secure remote administrative access (SSH, VPN).  
+- Monitor network traffic with Wireshark and IDS tools.  
+- Implement secure routing protocols and harden routing devices.  
+- Apply security best practices to DHCP, DNS, and web servers.  
+- Simulate real-world attack and defense scenarios in lab environments.  
 
 ---
 
